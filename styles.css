@@ -80,13 +80,17 @@ a {
     font-size: large;
 }
 
+.media-logo {
+    width: 40px;
+}
+
 
 .list-non-bullets{
     list-style: none;
     padding: 1rem 0;
 }
 
-.list-item-inline {
+.logo-inline {
     display: inline;
-    padding: 0 1.5rem;
+    padding: 0 1rem;
 }
